@@ -1,4 +1,5 @@
 # Module 1
+Module 1 pictures: [Pictures for Module 1](https://github.com/marleneibrus/iot-portfolio/blob/main/Module01/pictures/README.md)
 
 Module description:
 In this module, you will have an overview of the course structure. It will also introduce you to the field of the Internet of Things (IoT) through videos and live demos. In-class discussions will be held about basic concepts of IoT and where it can be applied in the world. Finally, we will have a hands-on experience with the technology through our master class. 
