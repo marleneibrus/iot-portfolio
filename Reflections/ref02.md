@@ -2,11 +2,11 @@
 - Main takeaways:
   - A reminder of the main conventions and ways to work with hardware and basic electronics. For example:
     - Black jumper wires for ground, red for positive.
-    - A reminder of what isa breadboard, how to use it. Explanation behind how the breadboard works.
+    - A reminder of what is a breadboard, how to use it. Explanation behind how the breadboard works.
     - A short explanation on how LEDs work (p-n junctions)
   - An introduction and remimnder of MCUs.
   - A deeper look into ESP8266 and why it is inspiring.
-  - ESP8266 changed Ulno's life so it may also change mine:]
+    - ESP8266 changed Ulno's life so it may also change mine:]
 - What was good?
   - The pacing was very nice this time.
   - A good blend of independent research(looking into MCUs, cataloging the kit) and instructions from the instructors
