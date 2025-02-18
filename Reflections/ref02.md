@@ -1,10 +1,32 @@
 # Reflection 1 in Module 2
-- What is your take-away, what do you want to remember, what would be your advice? Take-away can be small summary, but better outstanding points.
+- Main takeaways:
+  - A reminder of the main conventions and ways to work with hardware and basic electronics. For example:
+    - Black jumper wires for ground, red for positive.
+    - A reminder of what isa breadboard, how to use it. Explanation behind how the breadboard works.
+    - A short explanation on how LEDs work (p-n junctions)
+  - An introduction and remimnder of MCUs.
+  - A deeper look into ESP8266 and why it is inspiring.
+  - ESP8266 changed Ulno's life so it may also change mine:]
 - What was good?
+  - The pacing was very nice this time.
+  - A good blend of independent research(looking into MCUs, cataloging the kit) and instructions from the instructors
+  - I had limited experience working with electronics so far, so this week help me fill in some gaps in my knowledge and make me feel more confident.
 - What was difficult, where did you struggle?
+  - Finding the correct information about the hardware in the kit.
+  - Finding information about the ampre values of LEDs.
+  - Initially, it was difficult to draw the schematic for loops.
 - Was there any good/fun “struggling”/exploration? Any show stoppers – anything where you should reach out to peers or instructors?
+  - I really enjoyed the build-along for the __relay-lock-button__ circuit.
+  - Cataloging the kit was also very enjoyable, it really helped to get more familliar with those specific components and how to find information about hardware in general.
 - How was your interaction with peers/instructors?
+  - This week I worked with my partner, which went really well.
+  - I did not interact with anyone from other teams.
+  - I had some interactions with the instructors, who were very nice and helpful.
 - Help and extra work
   - Who helped you, gave feedback, was it valuable?
+    - I got feedback and help from both instructors present(Matevž and Fedir) and their feedback and help was very valuable.
+    - Thanks to the help from instructors, we were able to complete all of the tasks and get over the issues we had.
   - Who did you help, gave feedback to?
+    - I did not give feedback or help to anyone this time.
   - Did you present, implement, made a PR, or fix something that was crucial for the class in itself?
+    - Not this time:]
