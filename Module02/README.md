@@ -114,7 +114,9 @@ We did not figure out how we were supposed to connect this to multiple interesti
 From my partner's portfolio: [Touch sensor](https://github.com/maarekarmenoras/iot-portfolio/blob/main/Module02/pictures/20250301_152049.jpg) and [code](https://38-3d.co.uk/blogs/blog/how-to-use-the-mpr121-capacitive-touch-sensor-with-arduino).
 
 ## Week 3 Mini project 4 - Bomb defuse challenge
-I was not able to fully complete this challenge as my M5 Stick stopped working. I created a schematic of what I imagine the solution to this cahllenge being, which can be found [here](https://github.com/marleneibrus/iot-portfolio/blob/main/Module02/pictures/21901126-d958-4a4b-b398-f9f66e872c81.jpeg). The LED strip should be 12V not 5V. I also rewrote the code, which can be found [here](https://github.com/marleneibrus/iot-portfolio/blob/main/Module02/pictures/main.cpp).
+This is my appended solution. The picture of the solution can be found here: [Picture 1](https://github.com/marleneibrus/iot-portfolio/blob/main/Module02/pictures/IMG_0211.png), [Picture 2](https://github.com/marleneibrus/iot-portfolio/blob/main/Module02/pictures/IMG_0214.png), [Picture 3](https://github.com/marleneibrus/iot-portfolio/blob/main/Module02/pictures/IMG_0210.png). I also rewrote the code, which can be found [here](https://github.com/marleneibrus/iot-portfolio/blob/main/Module02/pictures/main.cpp).
+<br> Old solution:<br>
+~~I was not able to fully complete this challenge as my M5 Stick stopped working. I created a schematic of what I imagine the solution to this cahllenge being, which can be found [here](https://github.com/marleneibrus/iot-portfolio/blob/main/Module02/pictures/21901126-d958-4a4b-b398-f9f66e872c81.jpeg). The LED strip should be 12V not 5V.~~
 
 ## Week 3 Mini project 5 - Combination challenge
 I could not solve this challenge, because my M5 Stick was not working. Using my partners M5 Stick we experimented with different approaches but eventually ran out of energy and decided to wrap it up.
