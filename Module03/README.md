@@ -28,7 +28,7 @@ In order to set up an IoT network with MQTT, one should follow these general ste
  7. Expand the network
 
 ## Week 1 mini-project 1 - etup your local cloud/intranet
-The solution to this task can be found in py partners portfolio [here](https://github.com/maarekarmenoras/iot-portfolio).
+The solution to this task can be found in py partners portfolio [here](https://github.com/maarekarmenoras/iot-portfolio/tree/main/Module03).
 
 ## Week 2 mini-project 1 - IoTempower networking
 Setup Process
@@ -40,11 +40,14 @@ Setup Process
  6. Verified internet access on both the laptop and the WiFi network.
 
 we also faced a large challenge during this mini-project. Mainly, USB tethering not detected by the router
-Initially, the router did not recognize the phone’s tethered connection. We solved this by with the help of the lab assistants. They halped us ensure that the phone was in USB Tethering Mode, then we restarted both the router and phone, and used a different USB cable.
+Initially, the router did not recognize the phone’s tethered connection. We solved this by with the help of the lab assistants. They halped us ensure that the phone was in USB Tethering Mode, then we restarted both the router and phone, and used a different USB cable. A picture of us using USB tethering can be found [here](https://github.com/maarekarmenoras/iot-portfolio/blob/main/Module03/pictures/usb_tethering.jpg).
 
 ## Week 2 mini-project 2 - MQTT listens everywhere
-The solution to this task can be found in my partners portfolio [](https://github.com/maarekarmenoras/iot-portfolio).
+A more detailed solution to this task can be found in my partners portfolio [here](https://github.com/maarekarmenoras/iot-portfolio/tree/main/Module03). Using NodeRed was not overly difficult.
 
 ## Week 2 mini-project 3 - FirstAid station emergency button
 When trying to solve this task at home, we kept running into the same issue with the router not working that we had had in the lab. We did build the circuit and [here](https://github.com/marleneibrus/iot-portfolio/blob/main/Module03/pictures/emergency.cpp) is our proposed code.
+
+## Week 2 mini-project 4 - Remote access to the gateway
+We had no connection to the router so we could not solve this task.
  
