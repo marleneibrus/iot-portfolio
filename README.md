@@ -20,5 +20,5 @@ My personal profile and expectations, you can find [here](Module01/README.md#tas
   [Reflection 2](Reflections/ref02.md), [Reflection 3](Reflections/ref03.md)
 - [Module 3: Infrastructure and Gateway Setup](https://github.com/marleneibrus/iot-portfolio/blob/main/Module03/README.md),
   [Reflection4](https://github.com/marleneibrus/iot-portfolio/blob/main/Reflections/ref04.md), [Reflection 5](https://github.com/marleneibrus/iot-portfolio/blob/main/Reflections/ref05.md)
-- …
+- … [Reflection 6](https://github.com/marleneibrus/iot-portfolio/blob/main/Reflections/ref06.md), …
 
