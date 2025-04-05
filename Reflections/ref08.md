@@ -1,0 +1,2 @@
+# Reflection 3 in Module 4
+During this week, I was unfortunately sick and couldn’t attend the lab in person. I’ve still been struggling quite a bit with setting up and using iotknit. I'm still working on the tasks from last week. I still feel like I had trouble grasping the whole process—it was probably more my own lack of understanding than anything else. That said, the topic itself is really interesting, and I’m hoping it’ll start to click with more practice.
