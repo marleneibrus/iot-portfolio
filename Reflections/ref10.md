@@ -1,0 +1,2 @@
+# Reflection 2 in Module 5
+This week, we focused on the Liquids Measuring Project and spent our time building the scale node used for weighing materials. Although we encountered some setbacks—mainly due to incorrect wiring that took quite a while to troubleshoot—we eventually got it working. Throughout the process, our teammates were incredibly supportive, checking in on us regularly to offer encouragement. We also received helpful guidance from Renato and Ulrich, which made a big difference in getting everything up and running.
